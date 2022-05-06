@@ -2,7 +2,7 @@
 The concept is a player vs player (PVP) game where you can summon animals and use them to score
 goals. The game works similar to football, where your goal is to send animals (the ball) through the
 portal (the goal). Each animal you spawn/summon has its own attributes, specialties and
-interactions on the field.
+interactions on the field. The project develop aims for minimum viable product to introduce concept of alternate controls that mimics summoning jutsu's (from Naruto)
 
 Tools Used - Unity, C# and Arduino. 
 
